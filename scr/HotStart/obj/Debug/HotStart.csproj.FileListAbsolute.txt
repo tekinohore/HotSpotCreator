@@ -1,0 +1,11 @@
+C:\Users\Itsukami\Desktop\HotStart-master\HotStart\bin\Debug\HotStart.exe.config
+C:\Users\Itsukami\Desktop\HotStart-master\HotStart\bin\Debug\HotStart.exe
+C:\Users\Itsukami\Desktop\HotStart-master\HotStart\bin\Debug\HotStart.pdb
+C:\Users\Itsukami\Desktop\HotStart-master\HotStart\obj\Debug\HotStart.csproj.AssemblyReference.cache
+C:\Users\Itsukami\Desktop\HotStart-master\HotStart\obj\Debug\HotStart.Form1.resources
+C:\Users\Itsukami\Desktop\HotStart-master\HotStart\obj\Debug\HotStart.HelpForm.resources
+C:\Users\Itsukami\Desktop\HotStart-master\HotStart\obj\Debug\HotStart.Properties.Resources.resources
+C:\Users\Itsukami\Desktop\HotStart-master\HotStart\obj\Debug\HotStart.csproj.GenerateResource.cache
+C:\Users\Itsukami\Desktop\HotStart-master\HotStart\obj\Debug\HotStart.csproj.CoreCompileInputs.cache
+C:\Users\Itsukami\Desktop\HotStart-master\HotStart\obj\Debug\HotStart.exe
+C:\Users\Itsukami\Desktop\HotStart-master\HotStart\obj\Debug\HotStart.pdb
